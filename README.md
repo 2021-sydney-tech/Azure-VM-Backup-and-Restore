@@ -2,7 +2,7 @@
 This hands-on lab, I am going to demonstrate Azure VM backup.
 
 Pre-requisites: a Resource Group and a VM
-<img href="images/sydney-rg.png">
+<img src="images/sydney-rg.png" alt="">
 
 Step 1: Create a backup
 Go to VM and select Backup and 
